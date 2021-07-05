@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = christophe.becquey@laposte.net
+	name = Christophe Becquey
